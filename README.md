@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
    ```bash
    git clone https://github.com/Ibram-Kamal/LegalMate.git
-   cd legal-mate
+   cd LegalMate
    ```
 
 2. **Install dependencies**
