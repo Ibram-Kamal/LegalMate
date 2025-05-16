@@ -12,7 +12,7 @@ from google import genai
 # —————————————————————————————————————————
 # Configuration
 # —————————————————————————————————————————
-API_KEY = os.getenv("GENAI_API_KEY", "AIzaSyB3QLixXOY_PEAsuO7c1KfK5GD-3GhxLXo")
+API_KEY = os.getenv("GENAI_API_KEY", "PUT_HERE_YOUR_API")
 MODEL_ID = "gemini-2.5-flash-preview-04-17"
 
 if not API_KEY or API_KEY.startswith("YOUR_"):
