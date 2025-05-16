@@ -1,6 +1,6 @@
-# Legal Mate (Streamlit RAG)
+# LegalMate (Streamlit RAG)
 
-**Legal Mate** is a Streamlit-based Retrieval-Augmented Generation (RAG) application designed to analyze Arabic legal contracts. It accepts PDF/TXT uploads, splits the document into chunks, embeds them via **SentenceTransformer**, indexes with **FAISS**, and leverages Google’s **Gemini** (via the GenAI API) for contextual legal analysis in Arabic.
+**LegalMate** is a Streamlit-based Retrieval-Augmented Generation (RAG) application designed to analyze Arabic legal contracts. It accepts PDF/TXT uploads, splits the document into chunks, embeds them via **SentenceTransformer**, indexes with **FAISS**, and leverages Google’s **Gemini** (via the GenAI API) for contextual legal analysis in Arabic.
 
 ---
 
